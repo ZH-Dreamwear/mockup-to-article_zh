@@ -1,0 +1,39 @@
+/* 添加 CSS */
+*{
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+}
+.name{
+	margin-left: 15px;
+	margin-bottom: 5px;
+}
+.card{
+	width: 330px;
+	border: 1px solid #666;
+	border-radius: 5px;
+	background-color: #94F1D8;
+	box-shadow: 5px 5px 15px 0px;
+}
+.picture{
+	width: 300px;
+	margin: 15px;
+}
+.anecdotes{
+	font-style: italic;
+}
+.item{
+	font-weight: bold;
+}
+.list{
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+}
+.description{
+	width: 300px;
+	margin: 0px 15px 15px 15px;
+	padding: 5px;
+	border: 1px solid #666
+}
